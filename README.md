@@ -4,7 +4,7 @@
         Project Info
         Subject	WST21
         Student Name	Argy G. Dangcalan
-        Course & Year	BSIT-2
+        Course & Year	BSIT-2 SEC-11
         Database Used	MySQL (XAMPP / phpMyAdmin)    
     	
         Features
