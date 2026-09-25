@@ -2,7 +2,7 @@
         A simple web application for managing daily tasks, built with Laravel for our Web Systems & Technologies subject.
             	
         Project Info
-        Subject	WST21
+        Subject	WST21-PM-2026-SF
         Student Name	Argy G. Dangcalan
         Course & Year	BSIT-2 SEC-11
         Database Used	MySQL (XAMPP / phpMyAdmin)    
