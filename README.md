@@ -13,19 +13,6 @@
         Edit Task
         Delete Task
         Update Status (Pending / Completed)
-            	
-        How to Run
-        Install XAMPP and Composer
-        Clone this repository:
-        git clone https://github.com/Take-Mitchy/task_manager.git
-            	
-        3. Run `composer install`
-        4. Copy `.env.example` to `.env` and set `DB_DATABASE=task_manager`
-        5. Run `php artisan key:generate`
-        6. Create a `task_manager` database in phpMyAdmin
-        7. Run `php artisan migrate`
-        8. Run `php artisan serve`
-        9. Open http://127.0.0.1:8000
     	
 Screenshots
 <img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/f6f1bff3-7fd9-4d3e-83a8-77252e5f71b7" />
